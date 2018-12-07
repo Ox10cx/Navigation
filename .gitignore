@@ -1,0 +1,26 @@
+# Keystore files
+*.jks
+
+/.gitignore.bak
+/libdispmap/libs/*
+/libdispmap/obj/*
+/platform/android/dispmap/libs/armeabi/*
+/platform/android/dispmap/libs/armeabi-v7a/libosgNativeLib.so
+/platform/win32/PlatGo/Debug
+/platform/win32/UiEngine/Debug
+/platform/win32/UiTrans/Debug
+/platform/win32/StDn3D/Debug
+/platform/win32/StEngine/Debug
+/platform/win32/StKernel32/Debug
+/platform/win32/StPTT/Debug
+/platform/win32/bin/enginedebug
+/platform/win32/PlatGo/Debug
+
+*.obj
+*.asp
+*.aps
+*.exp
+*.opensdf
+*.ldb
+#过程文件
+*.~vsd
